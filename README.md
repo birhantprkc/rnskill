@@ -161,6 +161,7 @@ cp -R skills/ra-人话 <project>/.claude/skills/ra-人话
 |-------|------|------|
 | [`rn-motion-director`](skills/rn-motion-director/) | 动效导演：选题/脚本 → 动效视频概念、视觉隐喻、运动语法、Anti-PPT 质量门 | 原创 |
 | [`rn-motion-replica`](skills/rn-motion-replica/) | 参考动效复刻：从获授权参考片段构建原创可编辑 HyperFrames 工程 + QC | 原创 |
+| [`rn-human-motion-extractor`](skills/rn-human-motion-extractor/) | 真人动作提取：参考视频 → 逐帧人体/双手关键点、匿名骨架视频与置信度质检 | 原创 |
 | [`rn-dark-saas-video`](skills/rn-dark-saas-video/) | 暗色 SaaS 产品视频：8 套场景蓝图、3 种时长预设 | 原创 |
 | [`rn-bw-text-opener`](skills/rn-bw-text-opener/) | 黑白打字机开场动画：3 种时长预设，附 Python 时序规划脚本 | 原创 |
 | [`rn-replica-qc`](skills/rn-replica-qc/) | 复刻质检：五级保真度 + 素材/运行时/交付三道全帧门 | 原创 |

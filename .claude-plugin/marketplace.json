@@ -37,6 +37,16 @@
       "skills": ["./skills/rn-motion-replica"]
     },
     {
+      "name": "rn-human-motion-extractor",
+      "description": "从获授权的真人参考视频提取逐帧人体与双手轨迹，输出匿名骨架视频、关键点数据和置信度证据。\nExtract anonymized frame-by-frame body and hand trajectories with skeleton previews and confidence evidence.\nTrigger: /rn-human-motion-extractor, 提取博主动作, 提取人体动作轨迹, 生成骨架视频",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "video-production",
+      "keywords": ["人体动作", "骨架", "关键点", "pose", "motion capture", "avatar"],
+      "skills": ["./skills/rn-human-motion-extractor"]
+    },
+    {
       "name": "rn-replica-qc",
       "description": "参考视频复刻 SOP v2。五级保真度 + 素材/运行时/交付三道全帧门 + 精确重放与参数化组件分离。\nReference replica SOP v2 with five fidelity levels and asset/runtime/delivery frame gates.\nTrigger: /rn-replica-qc, 复刻这个视频, 对齐参考视频, 逐帧像素验证",
       "source": "./",

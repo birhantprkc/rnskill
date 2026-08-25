@@ -161,6 +161,7 @@ Skills marked `⬡` are from or adapted from external open-source projects — s
 |-------|-------------|--------|
 | [`rn-motion-director`](skills/rn-motion-director/) | Motion-first AI video director: topic → motion concept, visual metaphors, beat graph, anti-PPT QC | Original |
 | [`rn-motion-replica`](skills/rn-motion-replica/) | Reference motion study: builds original editable HyperFrames project from authorized reference + QC | Original |
+| [`rn-human-motion-extractor`](skills/rn-human-motion-extractor/) | Human-motion extraction: reference video → frame-level body/hand keypoints, anonymized skeleton video, and confidence QC | Original |
 | [`rn-dark-saas-video`](skills/rn-dark-saas-video/) | Dark cinematic SaaS product video: 8 scene blueprints, 3 timing presets | Original |
 | [`rn-bw-text-opener`](skills/rn-bw-text-opener/) | Black-white typed text opener with synced SFX, 3 timing presets, Python timing planner | Original |
 | [`rn-replica-qc`](skills/rn-replica-qc/) | Replica QA: 5 fidelity levels + asset/runtime/delivery full-frame gates | Original |
