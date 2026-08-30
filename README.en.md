@@ -4,7 +4,7 @@
 
 AI Agent Skills by 雪踏乌云 for Codex, Claude Code, and other `SKILL.md`-compatible agents.
 
-Currently **56 skills** in two categories:
+Currently **57 skills** in two categories:
 
 ### 🎬 Content Creation (Video / Image / Article)
 
@@ -87,6 +87,7 @@ Skills marked `⬡` are from or adapted from external open-source projects — s
 | [`ra-实操策划`](skills/ra-实操策划/) | Practical long-form planning: test prompts, timeline structure, on-camera script, screen-recording checklist | Original |
 | [`ra-hook`](skills/ra-hook/) | Short video hook selection: 7 types × 3 categories, with prerequisites, templates, and common mistakes | Original |
 | [`ra-video-title`](skills/ra-video-title/) | Video title generation: lock theme → analyze benchmarks → 8-12 two-part candidates + Top 3 picks | Original |
+| [`孙宇晨`](skills/孙宇晨/) (alias [`孙割`](skills/孙割/)) | Distills Justin Sun's public decision patterns into 6 modes — attention buying, narrative override, identity leverage, audience switching, replication+premium, money-as-solvent — to sandbox your own topic/publish/PR calls; analysis only, no roleplay | Original |
 
 ### Content Writing
 
